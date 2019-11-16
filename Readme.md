@@ -1,1 +1,2 @@
 # BuscaImagens
+# BuscaTextos
